@@ -1,7 +1,7 @@
 # Hybrid Physics+Machine Learning Battery Modeling
 Repository for the implementation of the paper:
 
-[Integrating Physics-Based Modeling with machine learning for lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S030626192201546X)
+[Integrating Physics-Based Modeling with Machine Learning for Lithium-Ion Batteries](https://www.sciencedirect.com/science/article/pii/S030626192201546X)
 
 by Hao Tu, Scott Moura, Yebin Wang, Huazhen Fang
 
