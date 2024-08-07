@@ -11,7 +11,7 @@ DOI: [10.1016/j.apenergy.2022.120289](https://doi.org/10.1016/j.apenergy.2022.12
 
 ## Repository overview
 
-Various battery models are built for battery voltage prediction. They include:
+Various models are built for battery voltage prediction. They include:
 
 * PureML: Pure feedforward neural network (FNN) models
 * DFN: Doyle-Fuller-Neumann model
