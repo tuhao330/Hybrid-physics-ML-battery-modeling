@@ -21,4 +21,4 @@ Various models are built for battery voltage prediction. They include:
 * NDCNet: NDC + FNN
 * AgingNDCNet: Aging-aware NDCNet model
 
-Data generated for simulation and experimental validation are in the Dataset folder.
+Data generated for simulation and experimental validation are in the "Dataset" folder.
