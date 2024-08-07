@@ -1,4 +1,4 @@
-# Hybrid Physics+Machine Learning Battery Modeling
+# Hybrid Physics+ML Battery Modeling
 Repository for the implementation of the paper:
 
 [Integrating Physics-Based Modeling with Machine Learning for Lithium-Ion Batteries](https://www.sciencedirect.com/science/article/pii/S030626192201546X)
