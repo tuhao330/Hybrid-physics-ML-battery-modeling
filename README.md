@@ -19,6 +19,6 @@ Various models are built for battery voltage prediction. They include:
 * SPMTNet: SPMT + FNN
 * NDC: Nonlinear double capacitor (NDC) model
 * NDCNet: NDC + FNN
-* Aging NDCNet: Aging-aware NDCNet model
+* AgingNDCNet: Aging-aware NDCNet model
 
 Data generated for simulation and experimental validation are in the Dataset folder.
