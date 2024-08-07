@@ -7,4 +7,4 @@ by Hao Tu, Scott Moura, Yebin Wang, Huazhen Fang
 
 Applied Energy
 
-DOI: [10.1016/j.apenergy.2022.120289](https://doi.org/10.1016/j.apenergy.2022.120289.)
+DOI: [10.1016/j.apenergy.2022.120289](https://doi.org/10.1016/j.apenergy.2022.120289)
