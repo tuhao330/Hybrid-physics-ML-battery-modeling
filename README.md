@@ -25,6 +25,8 @@ Data generated for simulation and experimental validation are in the "Dataset" f
 
 ## Acknowledgement
 The DFN model and SPMT model are implemented based on the following repository:
+
 https://github.com/scott-moura/fastDFN
 https://github.com/scott-moura/SPMeT
+
 The NDC model is implemented by Ning Tian.
