@@ -24,9 +24,10 @@ Different models are built for battery voltage prediction. They include:
 Data generated for simulation and experimental validation are in the "Dataset" folder.
 
 ## Acknowledgement
-The DFN model and SPMT model are implemented based on the following repository:
+The authors would like to acknowledge the use of the following repositories for the implementation of the DFN model and SPMT model:
 
 https://github.com/scott-moura/fastDFN
+
 https://github.com/scott-moura/SPMeT
 
-The NDC model is implemented by Ning Tian.
+The authors would also like to thank Ning Tian for providing the code of the NDC model.
