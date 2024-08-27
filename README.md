@@ -30,4 +30,4 @@ https://github.com/scott-moura/fastDFN
 
 https://github.com/scott-moura/SPMeT
 
-The authors would also like to thank Ning Tian for providing the code of the NDC model.
+The authors would also like to thank [Ning Tian](https://github.com/ningtian) for providing the code of the NDC model.
