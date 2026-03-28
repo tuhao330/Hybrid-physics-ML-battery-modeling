@@ -23,11 +23,11 @@ R1 = x_real(13); C1 = 1/x_real(14)/R1;
 % data = readmatrix("..\Dataset\NDC\(sam)15A_discharge.csv"); %6C
 % data = readmatrix("..\Dataset\NDC\(sam)17.5A_discharge.csv"); %7C
 data = readmatrix("..\Dataset\NDC\(sam)20A_discharge.csv"); %8C
-% data = readmatrix("..\Dataset\NDC\(sam)UDDS2_discharge.csv"); %UDDS_1
-% data = readmatrix("..\Dataset\NDC\(sam)US062_discharge.csv"); %US06_1
-% data = readmatrix("..\Dataset\NDC\(sam)LA922_discharge.csv"); %LA92_1
-% data = readmatrix("..\Dataset\NDC\(sam)SC042_discharge.csv"); %SC04_1
-% data = readmatrix("..\Dataset\NDC\(sam)WLTC2_discharge_off.csv"); %WLTC_1
+% data = readmatrix("..\Dataset\NDC\(sam)UDDS2_discharge.csv"); %UDDS
+% data = readmatrix("..\Dataset\NDC\(sam)US062_discharge.csv"); %US06
+% data = readmatrix("..\Dataset\NDC\(sam)LA922_discharge.csv"); %LA92
+% data = readmatrix("..\Dataset\NDC\(sam)SC042_discharge.csv"); %SC04
+% data = readmatrix("..\Dataset\NDC\(sam)WLTC2_discharge_off.csv"); %WLTC
 
 data = data(2:358,:);
 voltage = data(:,5);current = data(:,6);  Vh = voltage(1); % column vector
